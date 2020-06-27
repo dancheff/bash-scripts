@@ -4,7 +4,7 @@ This repo contains a bunch of bash scripts to facilitate day-to-day SysAdmin tas
 for Linux-based Operating systems; primarily covers CentOS (and by extension, RHEL)
 and Debian.
 
-**installation_scripts**
+***installation_scripts***
 
 A bunch of bash scripts to install various software and tools on Linux machines - currently written and tested only for CenTOS/RHEL systems.
 
