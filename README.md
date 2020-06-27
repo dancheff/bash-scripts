@@ -8,10 +8,10 @@ and Debian.
 
 A bunch of bash scripts to install various software and tools on Linux machines - currently written and tested only for CenTOS/RHEL systems.
 
-**server_management**
+***server_management***
 
 Bash scripts for server management and sysadmin tasks.
 
-**miscellaneous**
+***miscellaneous***
 
 Other miscellaneous bash scripts.
