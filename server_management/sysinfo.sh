@@ -10,10 +10,10 @@ function pause(){
 
 # Purpose  - Display a menu on screen
 function show_menu(){
-    date
-    echo "---------------------------"
-    echo "   Main Menu"
-    echo "---------------------------"
+    	date
+    	echo "---------------------------"
+    	echo "   Main Menu"
+    	echo "---------------------------"
 	echo "1. Operating system info"
 	echo "2. Hostname and dns info"
 	echo "3. Network info"
