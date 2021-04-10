@@ -6,7 +6,7 @@ and Debian.
 
 ***installation_scripts***
 
-A bunch of bash scripts to install various software and tools on Linux machines - currently written and tested only for CenTOS/RHEL systems.
+A bunch of bash scripts to install various software and tools on Linux machines - currently written and tested only for CenTOS/RHEL and Debian systems.
 
 ***server_management***
 
